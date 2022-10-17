@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T10:11:21.013Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="CZMHaA8e1Qy7lVNPtOUO" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T10:21:59.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="UkUd6McUxFjp5kuUI-EQ" version="20.4.1" type="github">
   <diagram id="kttOxG31RimME8Mo8_W9" name="Pagina-1">
     <mxGraphModel dx="706" dy="708" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
             <mxPoint x="170" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hrEoVn3MDDSSl_XmKIdN-19" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hrEoVn3MDDSSl_XmKIdN-19" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="100" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hrEoVn3MDDSSl_XmKIdN-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.083;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hrEoVn3MDDSSl_XmKIdN-19" target="hrEoVn3MDDSSl_XmKIdN-11">
@@ -148,7 +148,7 @@
         <mxCell id="hrEoVn3MDDSSl_XmKIdN-76" value="voetpad + 4 + 5 groen,&lt;br&gt;rest rood" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="588.03" y="175" width="60" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="hrEoVn3MDDSSl_XmKIdN-77" value="voetpad + 4 + 5 groen,&lt;br&gt;rest rood" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hrEoVn3MDDSSl_XmKIdN-77" value="voetpad + 4 + 5 groen,&lt;br&gt;rest rood" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="130" y="275" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hrEoVn3MDDSSl_XmKIdN-78" value="&amp;nbsp;1.6.5&lt;br&gt;groen&lt;br&gt;+&lt;br&gt;rest rood" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
